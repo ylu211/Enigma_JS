@@ -8,7 +8,7 @@ Ce projet simule le fonctionnement de la machine Enigma avec :
 - 3 rotors configurables
 - Un réflecteur
 - Un tableau de connexion
-- Chiffrement/déchiffrement symétrique
+- Chiffrement / déchiffrement 
 
 ## Prérequis
 
